@@ -11,7 +11,7 @@
   "author": "Moliman",
   "license": "MIT",
   "dependencies": {
-    "tinymce": "^5.0.14",
+    "tinymce": "^5.10.0",
     "js-beautify": "^1.10.2"
   },
   "devDependencies": {
