@@ -15,7 +15,7 @@
     "js-beautify": "^1.10.2"
   },
   "devDependencies": {
-    "electron": "^6.0.3",
+    "electron": "^13.6.6",
     "electron-builder": "^21.2.0"
   },
   "build": {
